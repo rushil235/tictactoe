@@ -1,4 +1,4 @@
-let table = document.getElementById("counthere");
+= document.getElementById("counthere");
 
 function renderContributorsTable(contributors) {
   let i = 1;
